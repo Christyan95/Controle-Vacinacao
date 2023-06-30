@@ -1,0 +1,1 @@
+ALTER TABLE aplicacao ADD COLUMN status text DEFAULT 'ATIVO';
